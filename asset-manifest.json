@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.03dbcfe8.chunk.css",
-    "main.js": "/static/js/main.1324513e.chunk.js",
-    "main.js.map": "/static/js/main.1324513e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4e65dfcd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4e65dfcd.js.map",
-    "static/js/2.fea4a58d.chunk.js": "/static/js/2.fea4a58d.chunk.js",
-    "static/js/2.fea4a58d.chunk.js.map": "/static/js/2.fea4a58d.chunk.js.map",
-    "static/js/3.a87ec975.chunk.js": "/static/js/3.a87ec975.chunk.js",
-    "static/js/3.a87ec975.chunk.js.map": "/static/js/3.a87ec975.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.03dbcfe8.chunk.css.map": "/static/css/main.03dbcfe8.chunk.css.map",
-    "static/js/2.fea4a58d.chunk.js.LICENSE.txt": "/static/js/2.fea4a58d.chunk.js.LICENSE.txt",
-    "static/media/imgbin_chuck-norris-karate-kommandos-png.0b704c9a.png": "/static/media/imgbin_chuck-norris-karate-kommandos-png.0b704c9a.png"
+    "main.css": "/chucknorris/static/css/main.03dbcfe8.chunk.css",
+    "main.js": "/chucknorris/static/js/main.1324513e.chunk.js",
+    "main.js.map": "/chucknorris/static/js/main.1324513e.chunk.js.map",
+    "runtime-main.js": "/chucknorris/static/js/runtime-main.398e4aba.js",
+    "runtime-main.js.map": "/chucknorris/static/js/runtime-main.398e4aba.js.map",
+    "static/js/2.fea4a58d.chunk.js": "/chucknorris/static/js/2.fea4a58d.chunk.js",
+    "static/js/2.fea4a58d.chunk.js.map": "/chucknorris/static/js/2.fea4a58d.chunk.js.map",
+    "static/js/3.a87ec975.chunk.js": "/chucknorris/static/js/3.a87ec975.chunk.js",
+    "static/js/3.a87ec975.chunk.js.map": "/chucknorris/static/js/3.a87ec975.chunk.js.map",
+    "index.html": "/chucknorris/index.html",
+    "static/css/main.03dbcfe8.chunk.css.map": "/chucknorris/static/css/main.03dbcfe8.chunk.css.map",
+    "static/js/2.fea4a58d.chunk.js.LICENSE.txt": "/chucknorris/static/js/2.fea4a58d.chunk.js.LICENSE.txt",
+    "static/media/imgbin_chuck-norris-karate-kommandos-png.0b704c9a.png": "/chucknorris/static/media/imgbin_chuck-norris-karate-kommandos-png.0b704c9a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e65dfcd.js",
+    "static/js/runtime-main.398e4aba.js",
     "static/js/2.fea4a58d.chunk.js",
     "static/css/main.03dbcfe8.chunk.css",
     "static/js/main.1324513e.chunk.js"
