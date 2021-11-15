@@ -1,0 +1,42 @@
+@import '../../assets/scss/abstracts/variables';
+
+.search {
+  display: flex;
+  flex-flow: column;
+  gap: 16px;
+}
+
+.search_field {
+  display: flex;
+  gap: 8px;
+}
+
+.search__label {
+  margin-right: 30px;
+}
+
+.search__input {
+  margin-left: 8px;
+  border: none;
+  border-bottom: solid 2px $black-color;
+  color: $text-color;
+
+  &:hover,
+  &:focus,
+  &:focus-visible {
+    border-color: $green-color;
+    outline: none;
+  }
+}
+
+.search__suggestions {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  gap: 20px;
+}
+
+.search__error-message {
+  color: $red-color;
+  font-weight: 500;
+}

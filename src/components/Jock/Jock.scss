@@ -1,0 +1,13 @@
+@import '../../assets/scss/abstracts/variables';
+
+.jock {
+  padding: 8px 16px;
+  width: fit-content;
+  height: fit-content;
+  max-width: 240px;
+  border: solid 1px #cdcdcd;
+  background: $background-color;
+  border-radius: 10px;
+  box-shadow: $shadow;
+  color: $text-color;
+}

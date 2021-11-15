@@ -1,0 +1,40 @@
+@import '../../assets/scss/abstracts/variables';
+
+.categories {
+  display: flex;
+}
+
+.categories__categories {
+  margin-right: 30px;
+  display: flex;
+  flex-flow: column;
+  gap: 8px;
+  width: 200px;
+}
+
+.categories__category {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  padding: 2px 8px;
+  background: $yellow-color;
+  border-radius: 5px;
+  border: none;
+  width: 100px;
+  height: 24px;
+  color: $text-color;
+  font-weight: 600;
+
+  &:hover {
+    background: $orange-color;
+  }
+
+  &:active {
+    background: $green-color;
+  }
+
+  &--selected {
+    background: $green-color;
+  }
+}
